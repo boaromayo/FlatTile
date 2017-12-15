@@ -1,4 +1,4 @@
 # FlatTile
 
-Sample game done in HTML5 using the Phaser library.
+Sample HTML5 game done in TypeScript using the Phaser library.
 
